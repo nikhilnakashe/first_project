@@ -22,7 +22,11 @@ class Welcome extends CI_Controller {
 }
 
 //Hii This is new Change
+<<<<<<< HEAD
 //This is the next change in the file...
+=======
+//This is Nikhil Changes
+>>>>>>> 54f31d59de88f84f0344f6c78c0d7fb04ef270c2
  
 /* End of file welcome.php */
 /* Location: ./application/controllers/welcome.php */
