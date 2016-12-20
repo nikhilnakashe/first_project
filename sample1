@@ -21,7 +21,7 @@
                 <form method="POST" action="" id="frm_submit">
                 <div class="col-md-12">
                  
-                            <fieldset><legend>Journey Details</legend>
+                            <fieldset><legend>Journey Details 1</legend>
                               
                         <!-- Text input-->
                         <table style="width: 100%" class="table">
