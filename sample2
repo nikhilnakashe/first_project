@@ -20,6 +20,8 @@ class Welcome extends CI_Controller {
             exit;
     }
 }
+
+//Hii This is new Change
  
 /* End of file welcome.php */
 /* Location: ./application/controllers/welcome.php */
